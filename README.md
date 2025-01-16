@@ -29,7 +29,7 @@ in an XML file and as such easily adaptable to your needs.
 
 ## Contact
 
-[Paid professional support](https://professional.wiki/en/mediawiki-theme-development) is avilable via
+[Paid professional support](https://professional.wiki/en/mediawiki-theme-development) is available via
 [Professional Wiki](https://professional.wiki/), the maintainer of Chameleon. This includes installation,
 customization, and theme development.
 
